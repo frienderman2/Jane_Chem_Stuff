@@ -25,6 +25,7 @@ C:\Users\Jane\Documents\Jane_Chem_Stuff> dir
                4 Dir(s)  218,566,705,152 bytes free
 ~~~
 You should see all the log files you want and the pull_affinities.py file ^ (actual file path doesn't matter)
+
 3. Now that you know all the files are where you want them to be and you are with them run the code
 4. `pthyon pull_affinities.py` on some systems or `python3 pull_affinities.py` on others
 5. The console output will be as you specified or if you want I can also add an output file to make it easier to save
